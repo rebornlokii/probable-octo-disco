@@ -1,10 +1,10 @@
-# 🚀 Probable Octo Disco
+# Probable Octo Disco
 
 A small collection of Python practice scripts exploring basic data types, control flow, and simple utilities while tracking learning progress.
 
 ## Quick overview
 
-- Language: Python 3.10(practice/learning scripts)
+- Language: Python 3.11(practice/learning scripts)
 - Purpose: personal learning — small, focused scripts demonstrating concepts like dictionaries, sets, tuples, I/O, and simple utilities.
 - Notes: many scripts now include educational comments to explain behavior and teach key concepts.
 - Authorship: most repository content is made by humans. Only `Dumb Stuff/frame_counter.py`, comments, commit messages, and changelog entries are made or assisted by AI.
