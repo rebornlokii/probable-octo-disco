@@ -45,7 +45,7 @@ Core example scripts:
 
 ## Notes & tips
 
-- Many scripts are intentionally minimal learning examples; read the source to understand behavior.
+
 - To change behavior, edit the small variables at the top of each script (e.g. [`secret`](Dumb%20Stuff/finalfinal.py), [`account`](Practices/fakest-bank-youve-seen.py), [`video_file`](Dumb%20Stuff/frame_counter.py)).
 
 
